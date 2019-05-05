@@ -43,6 +43,10 @@ This lab aims to build your first Augmented Reality (AR) app.
 There are many open source alternatives to build augmented reality application. One of the web based solution is AR.js. You can try a huge set of examples: 
 https://github.com/stemkoski/AR-Examples
 
+# Testavimas
+  - Net pradinis kodas nepasileido per jokią naršyklę ir tas pats error'as neleidžia nieko daugiau padaryt.
+
+
 # Requirements for repository
   - You have to clone this repository and make two branches (master and develop).
   - The develop branch should contain commits of every new feature of the AR application.

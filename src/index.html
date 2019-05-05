@@ -111,7 +111,6 @@ function initialize()
 	let markerControls1 = new THREEx.ArMarkerControls(arToolkitContext, markerRoot1, {
 		type: 'pattern', patternUrl: "data/hiro.patt",
 	})
-
 	let geometry1	= new THREE.CubeGeometry(1,1,1);
 	let material1	= new THREE.MeshNormalMaterial({
 		transparent: true,
@@ -124,6 +123,7 @@ function initialize()
 	
 	markerRoot1.add( mesh1 );
 }
+
 
 
 function update()
