@@ -44,7 +44,7 @@ There are many open source alternatives to build augmented reality application. 
 https://github.com/stemkoski/AR-Examples
 
 # Testavimas
-  - Net pradinis kodas nepasileido per jokią naršyklę ir tas pats error'as neleidžia nieko daugiau padaryt.
+  - Ištestuota su Google Chrone ir Mozilla Firefox, abiejais atvejais veikė
 
 
 # Requirements for repository
